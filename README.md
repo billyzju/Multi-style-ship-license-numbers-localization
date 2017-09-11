@@ -1,8 +1,5 @@
 # Multi-style-ship-license-numbers-localization
-Codes and transferred deep model of my ICTAI 2017 paper "Using transferred deep model in combination with prior features to localize multi-style ship license numbers in nature scenes"
-
-The codes and the transferred deep model released here are described in our ICTAI 2017 paper "Using transferred deep model in combination with prior features to localize
-multi-style ship license numbers in nature scenes", please refer our paper for more details.
+Codes and transferred deep model of my ICTAI 2017 paper "Using transferred deep model in combination with prior features to localize multi-style ship license numbers in nature scenes", please refer our paper for more details.
 
 1. The Transferred_Deep_Model was implemented and trained with Caffe (TextBoxes version of Caffe, see also https://github.com/MhLiao/TextBoxes).
 2. How to use ?
@@ -14,4 +11,4 @@ Once you figure this point out, it will be easy for you to run our codes and tra
 
 Please let me know if you encounter any issues.
 
-P.S.: Our transferred deep model is too big to be uploaded on Github, you can find it at http://pan.baidu.com/s/1i4YJHLb
+P.S: Our transferred deep model is too big to be uploaded on Github, you can find it at http://pan.baidu.com/s/1i4YJHLb
